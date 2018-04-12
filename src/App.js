@@ -45,7 +45,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-          <h1>Event Listener Test</h1>
+      <h1>Event Listener Test</h1>
+      <p>open up chrome developer tools and profile, or performance monitor the 'JS event listeners'</p>
       <div style={{
         width: '200px',
         height: '200px',
