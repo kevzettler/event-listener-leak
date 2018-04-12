@@ -43,6 +43,7 @@ class App extends Component {
   }
 
   render() {
+    console.log('rerender');
     return (
       <div className="App">
       <h1>Event Listener Test</h1>
